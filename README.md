@@ -3,44 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>python-challenge-solutions-MoureDev - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-    code {
-      font-family: monospace;
-      background-color: #eee;
-      padding: 0 4px;
-      border-radius: 3px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin-top: 0;
-    }
-  </style>
 </head>
 <body>
   <h1>python-challenge-solutions-MoureDev</h1>
@@ -108,10 +70,20 @@
 
   <h2>Autor</h2>
   <p>
-    [Tu Nombre o Nickname] <br />
-    Correo electrónico: [tu.email@ejemplo.com] (opcional) <br />
-    GitHub: <a href="https://github.com/tu-usuario" target="_blank" rel="noopener noreferrer">https://github.com/tu-usuario</a>
+    GDOS <br />
+    Correo electrónico:  gdos210108@gmail.com <br />
+    GitHub: <a href="https://github.com/opticGDOS" target="_blank" rel="noopener noreferrer">https://github.com/tu-usuario</a>
   </p>
-
+<!--
+    ╔════════════════════╗
+    ║  ██████╗ ██████╗   ║ 
+    ║  ██╔════╝ ╚════██╗ ║
+    ║  ██║  ███╗ █████╔╝ ║
+    ║  ██║   ██║██╔═══╝  ║
+    ║  ╚██████╔╝███████╗ ║
+    ║  ╚═════╝ ╚══════╝  ║
+    ╚════════════════════╝
+-->
 </body>
 </html>
+
