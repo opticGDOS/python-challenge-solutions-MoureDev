@@ -1,35 +1,35 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body>
   <h1>python-challenge-solutions-MoureDev</h1>
-  <p>Este repositorio contiene mis soluciones personales a los retos semanales de programación publicados por
+  <p>This repository contains my personal solutions to the weekly programming challenges posted by
     <a href="https://retosdeprogramacion.com/ejercicios" target="_blank" rel="noopener noreferrer">MoureDev</a>.
-    Todas las soluciones están implementadas en <strong>Python 3</strong> y siguen la numeración original de los ejercicios.
+    All solutions are implemented in <strong>Python 3</strong> and follow the original exercise numbering.
   </p>
 
-  <h2>Contenido</h2>
+  <h2>Contents</h2>
   <ul>
-    <li>Soluciones ordenadas por número de reto.</li>
-    <li>Código limpio, comentado y optimizado.</li>
-    <li>Enfoque en legibilidad y eficiencia.</li>
-    <li>Ejemplos y casos de prueba (en algunos ejercicios).</li>
+    <li>Solutions ordered by challenge number.</li>
+    <li>Clean, commented, and optimized code.</li>
+    <li>Focus on readability and efficiency.</li>
+    <li>Examples and test cases (in some exercises).</li>
   </ul>
 
-  <h2>Objetivo</h2>
-  <p>Practicar y mejorar mis habilidades de programación en Python resolviendo retos variados que abarcan diferentes áreas como:</p>
+  <h2>Goal</h2>
+  <p>To practice and improve my Python programming skills by solving various challenges that cover areas such as:</p>
   <ul>
-    <li>Algoritmos y estructuras de datos</li>
-    <li>Problemas matemáticos</li>
-    <li>Manipulación de cadenas y listas</li>
-    <li>Programación funcional</li>
-    <li>Uso de módulos y librerías estándar</li>
+    <li>Algorithms and data structures</li>
+    <li>Mathematical problems</li>
+    <li>String and list manipulation</li>
+    <li>Functional programming</li>
+    <li>Use of standard modules and libraries</li>
   </ul>
 
-  <h2>Estructura del repositorio</h2>
+  <h2>Repository structure</h2>
   <pre><code>python-challenge-solutions-MoureDev/
 │
 ├── reto001.py
@@ -38,42 +38,43 @@
 │
 └── README.md
 </code></pre>
-  <p>Cada archivo <code>retoXXX.py</code> contiene la solución para el reto correspondiente.</p>
+  <p>Each <code>retoXXX.py</code> file contains the solution to the corresponding challenge.</p>
 
-  <h2>Requisitos</h2>
+  <h2>Requirements</h2>
   <ul>
-    <li>Python 3.6 o superior.</li>
-    <li>No se requieren librerías externas (excepto indicación contraria en retos específicos).</li>
+    <li>Python 3.6 or higher.</li>
+    <li>No external libraries required (unless specifically indicated in certain challenges).</li>
   </ul>
 
-  <h2>Cómo usar este repositorio</h2>
+  <h2>How to use this repository</h2>
   <ol>
-    <li>Clona el repositorio:
-      <pre><code>git clone https://github.com/tu-usuario/python-challenge-solutions-MoureDev.git</code></pre>
+    <li>Clone the repository:
+      <pre><code>git clone https://github.com/opticGDOS/python-challenge-solutions-MoureDev.git</code></pre>
     </li>
-    <li>Entra en la carpeta:
+    <li>Navigate into the folder:
       <pre><code>cd python-challenge-solutions-MoureDev</code></pre>
     </li>
-    <li>Ejecuta el script del reto que quieras probar:
+    <li>Run the script for the challenge you want to try:
       <pre><code>python reto001.py</code></pre>
     </li>
   </ol>
 
-  <h2>Contribuciones</h2>
-  <p>Este repositorio es personal, pero si quieres compartir mejoras o sugerencias, puedes abrir un <em>issue</em> o un <em>pull request</em>. ¡Toda colaboración es bienvenida!</p>
+  <h2>Contributions</h2>
+  <p>This is a personal repository, but if you want to share improvements or suggestions, feel free to open an <em>issue</em> or a <em>pull request</em>. Any collaboration is welcome!</p>
 
-  <h2>Enlaces útiles</h2>
+  <h2>Useful links</h2>
   <ul>
-    <li><a href="https://retosdeprogramacion.com/ejercicios" target="_blank" rel="noopener noreferrer">MoureDev - Retos de programación</a></li>
-    <li><a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer">Documentación oficial de Python</a></li>
+    <li><a href="https://retosdeprogramacion.com/ejercicios" target="_blank" rel="noopener noreferrer">MoureDev - Programming Challenges</a></li>
+    <li><a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer">Official Python Documentation</a></li>
   </ul>
 
-  <h2>Autor</h2>
+  <h2>Author</h2>
   <p>
     GDOS <br />
-    Correo electrónico:  gdos210108@gmail.com <br />
-    GitHub: <a href="https://github.com/opticGDOS" target="_blank" rel="noopener noreferrer">https://github.com/tu-usuario</a>
+    Email: gdos210108@gmail.com <br />
+    GitHub: <a href="https://github.com/opticGDOS" target="_blank" rel="noopener noreferrer">https://github.com/opticGDOS</a>
   </p>
+
 <!--
     ╔════════════════════╗
     ║  ██████╗ ██████╗   ║ 
