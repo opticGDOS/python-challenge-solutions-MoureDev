@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Python Challenge Solutions - MoureDev</title>
 </head>
 <body>
   <h1>python-challenge-solutions-MoureDev</h1>
