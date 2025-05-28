@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+
   <h1>python-challenge-solutions-MoureDev</h1>
   <p>This repository contains my personal solutions to the weekly programming challenges posted by
     <a href="https://retosdeprogramacion.com/ejercicios" target="_blank" rel="noopener noreferrer">MoureDev</a>.
